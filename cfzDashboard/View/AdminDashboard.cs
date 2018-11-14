@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace cfzDashboard
+namespace cfzDashboard.View
 {
-    public partial class Main : Form
+    public partial class AdminDashboard : Form
     {
-        public Main()
+        public AdminDashboard()
         {
             InitializeComponent();
         }
